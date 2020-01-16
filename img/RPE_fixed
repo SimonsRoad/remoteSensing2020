@@ -1,0 +1,15 @@
+
+The result of fixed VINS
+RPE w.r.t. translation part (m)
+for delta = 1 (frames) using consecutive pairs
+(with SE(3) Umeyama alignment)
+
+       max	5.785486
+      mean	0.813752
+    median	0.471042
+       min	0.001869
+      rmse	1.219420
+       sse	679.551785
+       std	0.908181
+
+-----------------------------

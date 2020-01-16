@@ -1,0 +1,3 @@
+<launch>    
+     <node name="vins" pkg="vins" type="vins_node" output="screen" args=" $(find vins)/../config/vi_car/vi_car.yaml" />
+</launch>

@@ -1,0 +1,1 @@
+{"title": "RPE w.r.t. translation part (m)\nfor delta = 1 (frames) using consecutive pairs\n(with SE(3) Umeyama alignment)", "est_name": "vio.csv", "label": "RPE (m)", "ref_name": "groundTruth.csv"}
